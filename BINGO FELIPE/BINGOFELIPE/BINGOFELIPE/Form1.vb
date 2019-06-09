@@ -1,4 +1,7 @@
 ﻿Public Class Form1
+    Dim txtLista(90) As String
+    Dim i As Integer
+
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
@@ -246,6 +249,38 @@
     Private Sub Button81_Click(sender As Object, e As EventArgs) Handles Button81.Click
         Button81.BackColor = Color.Gray
     End Sub
+    Private Sub Button82_Click(sender As Object, e As EventArgs) Handles Button82.Click
+        Button82.BackColor = Color.Gray
+    End Sub
+    Private Sub Button83_Click(sender As Object, e As EventArgs) Handles Button83.Click
+        Button83.BackColor = Color.Gray
+    End Sub
+    Private Sub Button84_Click(sender As Object, e As EventArgs) Handles Button84.Click
+        Button84.BackColor = Color.Gray
+    End Sub
+    Private Sub Button85_Click(sender As Object, e As EventArgs) Handles Button85.Click
+        Button85.BackColor = Color.Gray
+    End Sub
+    Private Sub Button86_Click(sender As Object, e As EventArgs) Handles Button86.Click
+        Button86.BackColor = Color.Gray
+    End Sub
+    Private Sub Button87_Click(sender As Object, e As EventArgs) Handles Button87.Click
+        Button87.BackColor = Color.Gray
+    End Sub
+    Private Sub Button88_Click(sender As Object, e As EventArgs) Handles Button88.Click
+        Button88.BackColor = Color.Gray
+    End Sub
+    Private Sub Button89_Click(sender As Object, e As EventArgs) Handles Button89.Click
+        Button89.BackColor = Color.Gray
+    End Sub
+    Private Sub Button90_Click(sender As Object, e As EventArgs) Handles Button90.Click
+        Button90.BackColor = Color.Gray
 
+    End Sub
 
+    Private Function Listado(num As String, col As Color)
+        If col <> Color.Gray Then
+            txtLista(i) = num
+        End If
+    End Function
 End Class
