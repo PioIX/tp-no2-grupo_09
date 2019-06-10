@@ -23,3 +23,4 @@ C:\Users\Marisa\Source\Repos\PioIX\tp-no2-grupo_09\BINGO FELIPE\BINGOFELIPE\BING
 C:\Users\Marisa\Source\Repos\PioIX\tp-no2-grupo_09\BINGO FELIPE\BINGOFELIPE\BINGOFELIPE\obj\Debug\BINGOFELIPE.exe
 C:\Users\Marisa\Source\Repos\PioIX\tp-no2-grupo_09\BINGO FELIPE\BINGOFELIPE\BINGOFELIPE\obj\Debug\BINGOFELIPE.xml
 C:\Users\Marisa\Source\Repos\PioIX\tp-no2-grupo_09\BINGO FELIPE\BINGOFELIPE\BINGOFELIPE\obj\Debug\BINGOFELIPE.pdb
+C:\Users\Marisa\Source\Repos\PioIX\tp-no2-grupo_09\BINGO FELIPE\BINGOFELIPE\BINGOFELIPE\obj\Debug\BINGOFELIPE.Form2.resources
